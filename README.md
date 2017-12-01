@@ -1,4 +1,4 @@
-Simple Login using MVC 
+Simple Login with MVC 
 
 Default user Name is "icsi518"
 Default Password. is "Fall2017"
